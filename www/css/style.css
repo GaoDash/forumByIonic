@@ -1,0 +1,4 @@
+/* 该部分对框架默认样式重写 */
+h1,h2,h3,h4,h5,span,label,a,p,button,input,div{
+  font-family:"Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu;
+}
